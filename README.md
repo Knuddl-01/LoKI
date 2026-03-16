@@ -22,8 +22,8 @@ chmod +x LoKI-x86_64.AppImage
 
 ## Documentation
 
-https://schneider-ki.com/wp-content/docs/LoKI_User_Guide.pdf
+https://schneider-ki.com/wp-content/downloads/LoKI_User_Guide.pdf
 
 ## WSL CUDA Setup Guide
 
-https://schneider-ki.com/wp-content/docs/LoKI_WSL_CUDA_Setup_Guide.pdf
+https://schneider-ki.com/wp-content/downloads/LoKI_WSL_CUDA_Setup_Guide.pdf
