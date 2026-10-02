@@ -38,7 +38,7 @@ https://schneider-ki.com/forum
 
 ## Documentation
 
-https://schneider-ki.com/wp-content/downloads/LoKI_User_Guide.pdf
+https://schneider-ki.com/wp-content/downloads/LoKI_User_Guide_en.pdf
 
 ## WSL CUDA Setup Guide
 
